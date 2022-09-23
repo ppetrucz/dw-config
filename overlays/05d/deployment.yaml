@@ -4,3 +4,5 @@ metadata:
   name: hello-world
   labels:
     overlay: 05d
+spec:
+  replicas: 2
