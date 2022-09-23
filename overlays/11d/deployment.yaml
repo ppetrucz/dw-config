@@ -5,4 +5,4 @@ metadata:
   labels:
     overlay: 11d
 spec:
-  replicas: 2
+  replicas: 1
