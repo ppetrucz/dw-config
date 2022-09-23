@@ -1,8 +1,6 @@
-apiVersion: extensions/v1beta1
+apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: hello-world
   labels:
     overlay: 05d
-spec:
-  replicas: 1
